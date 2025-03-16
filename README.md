@@ -11,7 +11,6 @@ logging
 MIT License
 
 ## Documentation
-//from check_spyder import Check_Spyder
-//check = Check_Spyder().is_spyder
-//
-//Returns True if Spyder is present or False if not.
+from simple_logger import Simple_Logger
+logger = Simple_Logger().logger
+logger.info(msg)
