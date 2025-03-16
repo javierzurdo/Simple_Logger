@@ -12,7 +12,7 @@ import logging
 
 #%% ------------ Classes -------------------
 # ------------------------------------------
-class Simple_Logger:
+class Very_Simple_Logger:
     def __init__(self, logger_name:str, log_file:str):
         self.logger_name = logger_name
         self.log_file = log_file

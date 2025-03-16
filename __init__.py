@@ -10,7 +10,7 @@ Created on Fri March 14 18:28:36 2025
 #%% ------------ Libraries -----------------
 # ------------------------------------------
 # __init__.py
-from .simple_logger import Simple_Logger
+from .very_simple_logger import Very_Simple_Logger
 
 #%% ------------ Classes -------------------
 # ------------------------------------------
@@ -23,4 +23,4 @@ from .simple_logger import Simple_Logger
 
 #%% ------------ Main ----------------------
 # ------------------------------------------
-__all__ = ['Simple_Logger']
+__all__ = ['Very_Simple_Logger']
