@@ -2,7 +2,7 @@
 Simple library to register any LOG comment in the code
 
 ## Instalation
-pip install simple_logger
+pip install very_simple_logger
 
 ## Dependencies
 logging
@@ -11,7 +11,7 @@ logging
 MIT License
 
 ## Documentation
-from simple_logger import Simple_Logger<br/>
-logger = Simple_Logger().logger<br/>
+from very_simple_logger import Very_Simple_Logger<br/>
+logger = Very_Simple_Logger().logger<br/>
 logger.info(msg)<br/>
 
