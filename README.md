@@ -11,7 +11,7 @@ logging
 MIT License
 
 ## Documentation
-from simple_logger import Simple_Logger
-logger = Simple_Logger().logger
-logger.info(msg)
+from simple_logger import Simple_Logger<br/>
+logger = Simple_Logger().logger<br/>
+logger.info(msg)<br/>
 
