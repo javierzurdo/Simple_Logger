@@ -5,7 +5,7 @@ Simple library to register any LOG comment in the code
 pip install simple_logger
 
 ## Dependencies
-
+logging
 
 ## License
 MIT License
